@@ -1,7 +1,7 @@
 # freeCodeCamp-Build-a-Technical-Documentation-Page
 
 ## Instructions
-https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page
+https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page
 
 ## Preview:
 <img src="https://raw.githubusercontent.com/iVuDang/freeCodeCamp-Build-a-Technical-Documentation-Page/main/technical%20doc%20preview.png" width=100% height=100%>
