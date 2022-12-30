@@ -13,7 +13,7 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-pa
 ## Outcome :white_check_mark:
 | Website | Link | 
 | ------------- | ------------- | 
-| CodePen demo | hhttps://codepen.io/iVuDang/pen/YzwVaev | 
+| CodePen demo | https://codepen.io/iVuDang/pen/YzwVaev | 
 
 <br />
 
